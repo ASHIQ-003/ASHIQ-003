@@ -1,16 +1,22 @@
+<!-- ANIMATED HEADER BANNER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:002200,60:004400,100:0d1117&height=210&section=header&text=Ashiq%20Rahman%20S&fontSize=54&fontColor=00ff88&fontAlignY=40&desc=Founder%20%26%20CTO%20%E2%80%94%20QueueFree%20Health%20%7C%20Product%20Builder&descSize=18&descColor=aaffcc&descAlignY=63" width="100%"/>
-
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%"/>
 </div>
 
+<!-- NAME + ANIMATED ROLE -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20CONNECT-%2300ff88?style=for-the-badge&labelColor=002200&color=0d1117"/>
+# Ashiq Rahman S
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Founder+%26+CTO+%40+QueueFree+Health+%F0%9F%A5%81;Full+Stack+Developer+%7C+Product+Builder;React+%C2%B7+Next.js+%C2%B7+Firebase+%C2%B7+AI+Systems;B.Tech+CS+(AI+%26+DS)+%40+HITS+Chennai+%2728;%F0%9F%A7%A0+Midnight+builder+%7C+Always+shipping"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO%20CONNECT-0d1117?style=for-the-badge&labelColor=002200&color=0d1117&logoColor=00ff88"/>
 &nbsp;
-<img src="https://img.shields.io/badge/BUILDING%20IN%20PUBLIC-%2300ff88?style=for-the-badge&labelColor=002200&color=0d1117"/>
+<img src="https://img.shields.io/badge/BUILDING%20IN%20PUBLIC-0d1117?style=for-the-badge&labelColor=002200&color=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/ALWAYS%20SHIPPING-%2300ff88?style=for-the-badge&labelColor=002200&color=0d1117"/>
+<img src="https://img.shields.io/badge/ALWAYS%20SHIPPING-0d1117?style=for-the-badge&labelColor=002200&color=0d1117"/>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=ASHIQ-003&style=for-the-badge&color=00ff88&labelColor=002200&label=VIEWS"/>
 
@@ -18,6 +24,7 @@
 
 ---
 
+<!-- ABOUT ME -->
 <img align="right" width="310" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 👋 Hey, I'm Ashiq
@@ -28,11 +35,7 @@ I founded **QueueFree Health** after seeing how broken hospital outpatient flow 
 
 I work across product, engineering, and systems design. Product-first thinking. Always shipping.
 
-<br/>
-
 > *"Building systems that reduce hospital waiting chaos."*
-
-<br/>
 
 <p>
 <img src="https://img.shields.io/badge/📍 Chennai%2C India-0d1117?style=flat-square&labelColor=002200"/>
@@ -46,45 +49,67 @@ I work across product, engineering, and systems design. Product-first thinking. 
 
 ---
 
-## 🏥 QueueFree Health
+<!-- SOCIALS -->
+## 🌐 Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/ashiq-rahman-48a550314">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=002200"/>
+  </a>&nbsp;
+  <a href="https://github.com/ASHIQ-003">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=002200"/>
+  </a>&nbsp;
+  <a href="https://instagram.com/_ashiq_rahman_07">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff88&labelColor=002200"/>
+  </a>&nbsp;
+  <a href="https://dev.to/ashiq07">
+    <img src="https://img.shields.io/badge/Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=00ff88&labelColor=002200"/>
+  </a>&nbsp;
+  <a href="https://ashiq-rahman-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff88&labelColor=002200"/>
+  </a>&nbsp;
+  <a href="mailto:sashiqrahman003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=002200"/>
+  </a>&nbsp;
+  <a href="https://queuefreehealth.com">
+    <img src="https://img.shields.io/badge/QueueFree_Health-0d1117?style=for-the-badge&logo=heart&logoColor=00ff88&labelColor=002200"/>
+  </a>
+</p>
+
+---
+
+<!-- QUEUEFREE HEALTH -->
+## 🏥 QueueFree Health — My Startup
+
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
 > Real-time hospital queue management infrastructure — giving patients clarity and hospitals control over outpatient workflow.
-
-<table>
-<tr>
-<td width="60%">
 
 | | |
 |---|---|
 | **Role** | Founder & CTO |
 | **Stage** | Incubated · Live in Production |
 | **Focus** | Outpatient queue management, real-time sync, hospital ops |
-| **Stack** | Next.js · Firebase · Supabase · Tailwind CSS · Node.js |
+| **Stack** | Next.js · Firebase · Supabase · Tailwind · Node.js |
 | **Website** | [queuefreehealth.com](https://queuefreehealth.com) |
 
-</td>
-<td width="40%" align="center">
-
+<p>
 <img src="https://img.shields.io/badge/STATUS-LIVE-00ff88?style=for-the-badge&labelColor=002200"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MSME-Registered-00ff88?style=for-the-badge&labelColor=002200"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STAGE-Incubated-00ff88?style=for-the-badge&labelColor=002200"/>
+</p>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DOMAIN-Healthcare_Tech-00ff88?style=for-the-badge&labelColor=002200"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MSME-Registered_Startup-00ff88?style=for-the-badge&labelColor=002200"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
+<!-- TRACTION -->
 ## 🚀 Traction
 
 ```
-✅  Completed pilot testing
+✅  Pilot testing completed
 ✅  MSME Registered Startup
 ✅  Incubated at HITS Chennai
 🔄  Building QueueFree SaaS infrastructure
@@ -94,6 +119,7 @@ I work across product, engineering, and systems design. Product-first thinking. 
 
 ---
 
+<!-- SYSTEM ARCHITECTURE -->
 ## ⚙️ System Architecture — QueueFree
 
 ```
@@ -103,19 +129,31 @@ I work across product, engineering, and systems design. Product-first thinking. 
 │  Patient App │   Doctor Portal  │  Hospital Admin Panel │
 │  (Next.js)   │   (Next.js)      │  (Next.js + Charts)   │
 ├──────────────┴──────────────────┴───────────────────────┤
-│              Real-Time Sync Layer (Firebase)             │
+│              Real-Time Sync Layer  (Firebase)            │
 ├─────────────────────────────────────────────────────────┤
-│         Queue Prediction Engine (Python + ML)           │
+│         Queue Prediction Engine  (Python + ML)          │
 ├──────────────────────────┬──────────────────────────────┤
-│   Supabase (Structured)  │  Firebase RT (Live State)    │
+│  Supabase  (Structured)  │  Firebase RT  (Live State)   │
 └──────────────────────────┴──────────────────────────────┘
 ```
 
 ---
 
+<!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212280823-79088406-7a74-4c8d-9d7c-f6c52f3b0e76.gif" width="60"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8146-5e93e3600c5b.gif" width="60"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212280952-839a5b55-ad61-4e11-b86c-4a0d4e3c7ad4.gif" width="60"/>
+
+<br/><br/>
 
 **Frontend & UI**
 
@@ -143,6 +181,7 @@ I work across product, engineering, and systems design. Product-first thinking. 
 
 ---
 
+<!-- PROJECTS -->
 ## 🚀 Projects
 
 <table>
@@ -163,10 +202,12 @@ Real-time hospital queue management infrastructure. Patients get live status. Ho
 
 **🚨 CrisisBeacon**
 
-Emergency response & crisis coordination platform for hospitality venues. Built for Google Solution Challenge 2026.
+Emergency response & crisis coordination platform for hospitality venues.
 
 ![](https://img.shields.io/badge/Google_Solution_Challenge-2026-00ff88?style=flat-square&labelColor=002200)
 ![](https://img.shields.io/badge/Team-Coder_Guys-00ff88?style=flat-square&labelColor=002200)
+
+🏆 Google Solution Challenge 2026
 
 </td>
 </tr>
@@ -175,7 +216,7 @@ Emergency response & crisis coordination platform for hospitality venues. Built 
 
 **🤝 VolunteerBridge**
 
-Volunteer coordination using Google Sheets, Maps & Twilio WhatsApp live notifications.
+Volunteer coordination with Google Sheets, Maps & Twilio WhatsApp live notifications.
 
 ![](https://img.shields.io/badge/Google_APIs-Twilio-00ff88?style=flat-square&labelColor=002200)
 
@@ -196,6 +237,7 @@ AI-based intrusion detection & SOC dashboard. Design Project 2 @ HITS Chennai.
 
 ---
 
+<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -220,45 +262,24 @@ AI-based intrusion detection & SOC dashboard. Design Project 2 @ HITS Chennai.
 
 ---
 
+<!-- CURRENTLY BUILDING -->
 ## ⚡ Currently Building
 
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"/>
+
 ```
-🏥  QueueFree SaaS v2    →  Multi-hospital onboarding infrastructure
-🔮  Queue prediction      →  ML model for patient ETA and load forecasting
-🏆  CrisisBeacon          →  Google Solution Challenge 2026 final push
-📐  System redesign       →  Scaling QueueFree architecture for production
+🏥  QueueFree SaaS v2    →  Multi-hospital onboarding infra
+🔮  Queue Prediction      →  ML model for patient ETA & load
+🏆  CrisisBeacon          →  Google Solution Challenge 2026
+📐  System Redesign       →  Scaling QueueFree architecture
 ```
+
+<br clear="right"/>
 
 ---
 
-## 🌐 Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/ashiq-rahman-48a550314">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=002200"/>
-  </a>&nbsp;
-  <a href="https://github.com/ASHIQ-003">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=002200"/>
-  </a>&nbsp;
-  <a href="https://instagram.com/_ashiq_rahman_07">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff88&labelColor=002200"/>
-  </a>&nbsp;
-  <a href="https://dev.to/ashiq07">
-    <img src="https://img.shields.io/badge/Dev.to-0d1117?style=for-the-badge&logo=devdotto&logoColor=00ff88&labelColor=002200"/>
-  </a>&nbsp;
-  <a href="https://ashiq-rahman-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff88&labelColor=002200"/>
-  </a>&nbsp;
-  <a href="mailto:sashiqrahman003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=002200"/>
-  </a>&nbsp;
-  <a href="https://queuefreehealth.com">
-    <img src="https://img.shields.io/badge/QueueFree_Health-0d1117?style=for-the-badge&logo=heart&logoColor=00ff88&labelColor=002200"/>
-  </a>
-</p>
-
-<br/>
-
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:002200,60:004400,100:0d1117&height=130&section=footer" width="100%"/>
+
 </div>
